@@ -23,7 +23,7 @@ pip install artmap2dem
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/artmap2dem.git
+git clone https://github.com/openfantasymap/artmap2dem.git
 cd artmap2dem
 pip install -e .
 ```
@@ -265,7 +265,7 @@ If you use ArtMap2DEM in your research, please cite:
 ```
 @software{artmap2dem,
   title={ArtMap2DEM: Converting Artistic Maps to Digital Elevation Models},
-  author={OpenHistoryMap Team},
+  author={OpenHistoryMap Team, OpenFantasyMaps area},
   year={2026}
 }
 ```
