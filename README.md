@@ -265,8 +265,8 @@ If you use ArtMap2DEM in your research, please cite:
 ```
 @software{artmap2dem,
   title={ArtMap2DEM: Converting Artistic Maps to Digital Elevation Models},
-  author={ArtMap2DEM Team},
-  year={2024}
+  author={OpenHistoryMap Team},
+  year={2026}
 }
 ```
 
